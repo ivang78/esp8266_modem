@@ -416,11 +416,6 @@ char upperCase(uint8_t c) {
 
 /**
  * Process byte of received data
-
-ATWIFIwolfs-logovo,wolf1978
-ATGEThttp://www.columbia.edu/~fdc/sample.html
-ATGEThttps://home.web.cern.ch/about
-
  */
 void processHtmlByte(uint8_t rxByte) {
   uint8_t lc;
